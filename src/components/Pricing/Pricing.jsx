@@ -22,6 +22,15 @@ function Pricing() {
             ]
         },
         {
+            id: 3, name: 'Premium', price: 150, benefits: [
+                '30 project',
+                '24/7 support',
+                'limited deals',
+                'Fast project delevary',
+                '20 rivision'
+            ]
+        },
+        {
             id: 4, name: 'Enterprise', price: 200, benefits: [
                 '50 project',
                 '24/7 support',
